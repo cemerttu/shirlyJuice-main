@@ -6,6 +6,9 @@ function ProfileComponent() {
   const [username, setUsername] = useState("");
   const [image, setImage] = useState("");
 
+
+
+  
   const handleImageChange = (e) => {
     const file = e.target.files[0];
     if (file) {
