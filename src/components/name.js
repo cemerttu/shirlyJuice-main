@@ -28,3 +28,6 @@ const NameForm = ({ onSubmitName }) => {
 };
 
 export default NameForm;
+
+
+
